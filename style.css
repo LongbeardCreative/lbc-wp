@@ -1,0 +1,28 @@
+/*
+Theme Name: LBC 2.0
+Theme URI: http://demo.qodeinteractive.com/bridge/
+Description: Longbeard
+Author: Qode Interactive
+Author URI: http://www.qodethemes.com/
+Version: 1.0.0
+Template: bridge
+*/
+@import url("../bridge/style.css");
+
+@font-face {
+    font-family: 'pluto-bold';
+    src: url('/wp-content/themes/LBC/fonts/plutosansbold-webfont.woff2') format('woff2'),
+         url('/wp-content/themes/LBC/fonts/plutosansbold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'pluto-light';
+    src: url('/wp-content/themes/LBC/fonts/plutosanslight-webfont.woff2') format('woff2'),
+         url('/wp-content/themes/LBC/fonts/plutosanslight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
